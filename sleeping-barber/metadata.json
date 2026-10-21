@@ -1,0 +1,6 @@
+{
+  "name": "Sleeping Barber Problem Simulator",
+  "description": "Interactive process synchronization simulator demonstrating the classic Sleeping Barber problem in operating systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
