@@ -1,0 +1,6 @@
+{
+  "name": "Dining Philosophers Problem Simulator",
+  "description": "Interactive Operating Systems synchronization simulator demonstrating deadlock, semaphores, monitors, and starvation with real concurrent actor simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
